@@ -1,0 +1,4 @@
+Git quick start:
+git status shows files status in terms of untracked/staged/unstaged/commited.
+git add stages files user want to add in repo
+git commit records staged changes in file 
